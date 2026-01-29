@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "homeTitle": "Texnoservis — maishiy texnika ta'miri",
+        "homeDescription": "Kir yuvish mashinasi, gaz plita, konditsioner va boshqa texnikalar ta'miri",
+        "services": {
+            "washingMachine": "Kir yuvish mashinasi ta'miri",
+            "gasStove": "Gaz plita ta'miri",
+            "airConditioner": "Konditsioner ta'miri",
+            "refrigerator": "Muzlatgich ta'miri",
+            "dishwasher": "Idish yuvish mashinasi ta'miri",
+            "microwave": "Mikroto‘lqinli pech ta'miri"
+        },
+        "contact": {
+            "phone": "+998911115647",
+            "address": "Ko'changiz 12, Toshkent viloyati, Toshkent, 100000"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "homeTitle": "Technoservice — Home Appliance Repair",
+        "homeDescription": "Repair of washing machines, gas stoves, air conditioners, and other appliances",
+        "services": {
+            "washingMachine": "Washing Machine Repair",
+            "gasStove": "Gas Stove Repair",
+            "airConditioner": "Air Conditioner Repair",
+            "refrigerator": "Refrigerator Repair",
+            "dishwasher": "Dishwasher Repair",
+            "microwave": "Microwave Oven Repair"
+        },
+        "contact": {
+            "phone": "+998911115647",
+            "address": "Street 12, Tashkent Region, Tashkent, 100000"
+        }
+    }
+}
